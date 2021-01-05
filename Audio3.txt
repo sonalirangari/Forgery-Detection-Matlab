@@ -1,0 +1,2120 @@
+[Warning: WAVREAD will be removed in a future release. Use AUDIOREAD instead.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wavread', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m', 62)" style="font-weight:bold">wavread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m',62,0)">line 62</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 440)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',440,0)">line 440</a>)] 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wavread', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m', 70)" style="font-weight:bold">wavread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m',70,0)">line 70</a>)
+Invalid Wave File. Reason: Cannot open file.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 440)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',440,0)">line 440</a>)
+    [ speech, fs, nbits ] = wavread( wav_file );
+} 
+Audio3
+[Warning: WAVREAD will be removed in a future release. Use AUDIOREAD instead.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wavread', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m', 62)" style="font-weight:bold">wavread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m',62,0)">line 62</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 440)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',440,0)">line 440</a>)] 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wavread', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m', 70)" style="font-weight:bold">wavread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m',70,0)">line 70</a>)
+Invalid Wave File. Reason: Cannot open file.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 440)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',440,0)">line 440</a>)
+    [ speech, fs, nbits ] = wavread( wav_file );
+} 
+Audio3
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('audioread')" style="font-weight:bold">audioread</a>
+Too many output arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 440)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',440,0)">line 440</a>)
+    [ speech, fs, nbits ] = audioread( wav_file );
+} 
+Audio3
+[Warning: WAVREAD will be removed in a future release. Use AUDIOREAD instead.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wavread', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m', 62)" style="font-weight:bold">wavread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m',62,0)">line 62</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 440)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',440,0)">line 440</a>)] 
+{Undefined function or variable 'readhtk_lite'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 476)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',476,0)">line 476</a>)
+    htk.mfcc = readhtk_lite( htk.feature_file ); % requires 'vanilla' implementation (included)
+} 
+Audio3
+[Warning: WAVREAD will be removed in a future release. Use AUDIOREAD instead.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wavread', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m', 62)" style="font-weight:bold">wavread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m',62,0)">line 62</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 440)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',440,0)">line 440</a>)] 
+{Undefined function or variable 'readhtk_lite'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 476)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',476,0)">line 476</a>)
+    htk.mfcc = readhtk_lite( htk.feature_file ); % requires 'vanilla' implementation (included)
+} 
+Audio3
+[Warning: WAVREAD will be removed in a future release. Use AUDIOREAD instead.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wavread', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m', 62)" style="font-weight:bold">wavread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m',62,0)">line 62</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 440)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',440,0)">line 440</a>)] 
+{Reference to non-existent field 'config_file'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 476)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',476,0)">line 476</a>)
+    readhtk_lite=htk.config_file;
+} 
+Audio3
+Max value = 0.85501
+Min value = -0.93976
+Mean value = -4.7859e-06
+RMS value = 0.15107
+Dynamic range D = 88.9484 dB
+Crest factor Q = 15.0557 dB
+Autocorrelation time = 23.8076 s
+Audio3
+Max value = 0.85501
+Min value = -0.93976
+Mean value = -4.7859e-06
+RMS value = 0.15107
+Dynamic range D = 88.9484 dB
+Crest factor Q = 15.0557 dB
+Autocorrelation time = 23.8076 s
+Audio2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Max value = 0.85501
+Min value = -0.93976
+Mean value = -4.7859e-06
+RMS value = 0.15107
+Dynamic range D = 88.9484 dB
+Crest factor Q = 15.0557 dB
+Autocorrelation time = 23.8076 s
+Audio2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 32000
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 873216
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 32000
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 873216
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 32000
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 873216
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Audio2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Audio2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 8192
+       BitsPerSample: 16
+    NumberOfChannels: 1
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 73113
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 8192
+       BitsPerSample: 16
+    NumberOfChannels: 1
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 73113
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 8192
+       BitsPerSample: 16
+    NumberOfChannels: 1
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 73113
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Audio2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 32000
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 873216
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 32000
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 873216
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 32000
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 873216
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Audio2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 5831422
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 5831422
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 5831422
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Audio2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 5831422
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 5831422
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 5831422
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Audio2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Max value = 0.85501
+Min value = -0.93976
+Mean value = -4.7859e-06
+RMS value = 0.15107
+Dynamic range D = 88.9484 dB
+Crest factor Q = 15.0557 dB
+Autocorrelation time = 23.8076 s
+Audio2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 8192
+       BitsPerSample: 16
+    NumberOfChannels: 1
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 73113
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 8192
+       BitsPerSample: 16
+    NumberOfChannels: 1
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 73113
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 8192
+       BitsPerSample: 16
+    NumberOfChannels: 1
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 73113
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Max value = 0.85501
+Min value = -0.93976
+Mean value = -4.7859e-06
+RMS value = 0.15107
+Dynamic range D = 88.9484 dB
+Crest factor Q = 15.0557 dB
+Autocorrelation time = 23.8076 s
+Audio2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 8192
+       BitsPerSample: 16
+    NumberOfChannels: 1
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 73113
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 8192
+       BitsPerSample: 16
+    NumberOfChannels: 1
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 73113
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 8192
+       BitsPerSample: 16
+    NumberOfChannels: 1
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 73113
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Max value = 0.79999
+Min value = -0.80002
+Mean value = 0.002476
+RMS value = 0.19621
+Dynamic range D = 42.3067 dB
+Crest factor Q = 12.2071 dB
+Autocorrelation time = 0.31396 s
+Max value = 0.79999
+Min value = -0.80002
+Mean value = 0.002476
+RMS value = 0.19621
+Dynamic range D = 42.3067 dB
+Crest factor Q = 12.2071 dB
+Autocorrelation time = 0.31396 s
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 2601617
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Audio3
+[Warning: WAVREAD will be removed in a future release. Use AUDIOREAD instead.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wavread', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m', 62)" style="font-weight:bold">wavread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m',62,0)">line 62</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 506)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',506,0)">line 506</a>)] 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wavread', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m', 70)" style="font-weight:bold">wavread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m',70,0)">line 70</a>)
+Invalid Wave File. Reason: Cannot open file.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 506)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',506,0)">line 506</a>)
+[y,Fs,nbit]=wavread('e.wav');
+} 
+Audio3
+[Warning: WAVREAD will be removed in a future release. Use AUDIOREAD instead.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wavread', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m', 62)" style="font-weight:bold">wavread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m',62,0)">line 62</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 506)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',506,0)">line 506</a>)] 
+
+h1 = 
+
+  <a href="matlab:helpPopup matlab.ui.Figure" style="font-weight:bold">Figure</a> (1) with properties:
+
+      Number: 1
+        Name: ''
+       Color: [0.9400 0.9400 0.9400]
+    Position: [403 246 560 420]
+       Units: 'pixels'
+
+  Show <a href="matlab:if exist('h1', 'var'), matlab.graphics.internal.getForDisplay('h1', h1, 'matlab.ui.Figure'), else, matlab.graphics.internal.getForDisplay('h1'), end">all properties</a>
+
+
+h2 = 
+
+  <a href="matlab:helpPopup matlab.ui.Figure" style="font-weight:bold">Figure</a> (2) with properties:
+
+      Number: 2
+        Name: ''
+       Color: [0.9400 0.9400 0.9400]
+    Position: [403 246 560 420]
+       Units: 'pixels'
+
+  Show <a href="matlab:if exist('h2', 'var'), matlab.graphics.internal.getForDisplay('h2', h2, 'matlab.ui.Figure'), else, matlab.graphics.internal.getForDisplay('h2'), end">all properties</a>
+
+{Undefined function or variable 'plotSpectrum'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 540)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',540,0)">line 540</a>)
+plotSpectrum(fscale,spectrum);
+} 
+Audio3
+[Warning: WAVREAD will be removed in a future release. Use AUDIOREAD instead.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wavread', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m', 62)" style="font-weight:bold">wavread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m',62,0)">line 62</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 506)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',506,0)">line 506</a>)] 
+
+h1 = 
+
+  <a href="matlab:helpPopup matlab.ui.Figure" style="font-weight:bold">Figure</a> (1) with properties:
+
+      Number: 1
+        Name: ''
+       Color: [0.9400 0.9400 0.9400]
+    Position: [403 246 560 420]
+       Units: 'pixels'
+
+  Show <a href="matlab:if exist('h1', 'var'), matlab.graphics.internal.getForDisplay('h1', h1, 'matlab.ui.Figure'), else, matlab.graphics.internal.getForDisplay('h1'), end">all properties</a>
+
+
+h2 = 
+
+  <a href="matlab:helpPopup matlab.ui.Figure" style="font-weight:bold">Figure</a> (2) with properties:
+
+      Number: 2
+        Name: ''
+       Color: [0.9400 0.9400 0.9400]
+    Position: [403 246 560 420]
+       Units: 'pixels'
+
+  Show <a href="matlab:if exist('h2', 'var'), matlab.graphics.internal.getForDisplay('h2', h2, 'matlab.ui.Figure'), else, matlab.graphics.internal.getForDisplay('h2'), end">all properties</a>
+
+{Undefined function or variable 'plotSpectrum'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 540)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',540,0)">line 540</a>)
+plotSpectrum(fscale,spectrum);
+} 
+if exist('h2', 'var'), matlab.graphics.internal.getForDisplay('h2', h2, 'matlab.ui.Figure'), else, matlab.graphics.internal.getForDisplay('h2'), end
+                 Alphamap: [1x64 double]
+             BeingDeleted: 'off'
+               BusyAction: 'queue'
+            ButtonDownFcn: ''
+                 Children: [1x1 Axes]
+                 Clipping: 'on'
+          CloseRequestFcn: 'closereq'
+                    Color: [0.9400 0.9400 0.9400]
+                 Colormap: [64x3 double]
+                CreateFcn: ''
+              CurrentAxes: [1x1 Axes]
+         CurrentCharacter: ''
+            CurrentObject: []
+             CurrentPoint: [0 0]
+                DeleteFcn: ''
+             DockControls: 'on'
+                 FileName: ''
+        GraphicsSmoothing: 'on'
+         HandleVisibility: 'on'
+            IntegerHandle: 'on'
+            Interruptible: 'on'
+           InvertHardcopy: 'on'
+              KeyPressFcn: ''
+            KeyReleaseFcn: ''
+                  MenuBar: 'figure'
+                     Name: ''
+                 NextPlot: 'add'
+                   Number: 2
+              NumberTitle: 'on'
+         PaperOrientation: 'portrait'
+            PaperPosition: [0.2500 2.5000 8 6]
+        PaperPositionMode: 'manual'
+                PaperSize: [8.5000 11]
+                PaperType: 'usletter'
+               PaperUnits: 'inches'
+                   Parent: [1x1 Root]
+                  Pointer: 'arrow'
+        PointerShapeCData: [16x16 double]
+      PointerShapeHotSpot: [1 1]
+                 Position: [403 246 560 420]
+                 Renderer: 'opengl'
+             RendererMode: 'auto'
+                   Resize: 'on'
+            SelectionType: 'normal'
+           SizeChangedFcn: ''
+                      Tag: ''
+                  ToolBar: 'auto'
+                     Type: 'figure'
+            UIContextMenu: []
+                    Units: 'pixels'
+                 UserData: []
+                  Visible: 'on'
+      WindowButtonDownFcn: ''
+    WindowButtonMotionFcn: ''
+        WindowButtonUpFcn: ''
+        WindowKeyPressFcn: ''
+      WindowKeyReleaseFcn: ''
+     WindowScrollWheelFcn: ''
+              WindowStyle: 'normal'
+
+Audio3
+[Warning: WAVREAD will be removed in a future release. Use AUDIOREAD instead.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('wavread', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m', 62)" style="font-weight:bold">wavread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\wavread.m',62,0)">line 62</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 506)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',506,0)">line 506</a>)] 
+
+h1 = 
+
+  <a href="matlab:helpPopup matlab.ui.Figure" style="font-weight:bold">Figure</a> (1) with properties:
+
+      Number: 1
+        Name: ''
+       Color: [0.9400 0.9400 0.9400]
+    Position: [403 246 560 420]
+       Units: 'pixels'
+
+  Show <a href="matlab:if exist('h1', 'var'), matlab.graphics.internal.getForDisplay('h1', h1, 'matlab.ui.Figure'), else, matlab.graphics.internal.getForDisplay('h1'), end">all properties</a>
+
+
+h2 = 
+
+  <a href="matlab:helpPopup matlab.ui.Figure" style="font-weight:bold">Figure</a> (2) with properties:
+
+      Number: 2
+        Name: ''
+       Color: [0.9400 0.9400 0.9400]
+    Position: [403 246 560 420]
+       Units: 'pixels'
+
+  Show <a href="matlab:if exist('h2', 'var'), matlab.graphics.internal.getForDisplay('h2', h2, 'matlab.ui.Figure'), else, matlab.graphics.internal.getForDisplay('h2'), end">all properties</a>
+
+{Error using savefig (line 43)
+H must be an array of handles to valid figures.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('saveasfig', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\general\private\saveasfig.m', 6)" style="font-weight:bold">saveasfig</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\general\private\saveasfig.m',6,0)">line 6</a>)
+savefig(h, name);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('saveas', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\general\saveas.m', 140)" style="font-weight:bold">saveas</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\general\saveas.m',140,0)">line 140</a>)
+    feval( ['saveas' format], h, name )
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 528)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',528,0)">line 528</a>)
+saveas(h1,'1.fig')
+} 
+Audio3
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'babble'. No such file or directory.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 502)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',502,0)">line 502</a>)
+load babble%speech noise
+} 
+Audio3
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'white'. No such file or directory.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 503)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',503,0)">line 503</a>)
+load white%white noise
+} 
+Audio3
+{Undefined function or variable 'babble'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 506)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',506,0)">line 506</a>)
+noise_list=[ white babble factory1  leopard ];
+} 
+AudioDetect(s, fs, win, fl, inc)
+{Undefined function or variable 's'.
+} 
+Audio3
+Max value = 0.85501
+Min value = -0.93976
+Mean value = -4.7859e-06
+RMS value = 0.15107
+Dynamic range D = 88.9484 dB
+Crest factor Q = 15.0557 dB
+Autocorrelation time = 23.8076 s
+{Undefined function 'label' for input arguments of type 'char'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 501)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',501,0)">line 501</a>)
+label('SNR');ylabel('NAS %');title('Noise as Speech : Method2');
+} 
+Audio3
+Max value = 0.85501
+Min value = -0.93976
+Mean value = -4.7859e-06
+RMS value = 0.15107
+Dynamic range D = 88.9484 dB
+Crest factor Q = 15.0557 dB
+Autocorrelation time = 23.8076 s
+clear
+clc
+sound(clean, fs)
+{Undefined function or variable 'clean'.
+} 
+Audio3
+sound(clean, fs)
+sound(masker, fs)
+[masked, masker] = addnoise(clean,masker,12);
+{Undefined function or variable 'addnoise'.
+} 
+12
+
+ans =
+
+    12
+
+[masked, masker] = addnoise(clean,masker,12);
+{Undefined function or variable 'addnoise'.
+} 
+[masked, masker] = addnoise(clean,masker,12);
+{Undefined function or variable 'addnoise'.
+} 
+Audio3
+sound(clean, fs)
+sound(masker, fs)
+12
+
+ans =
+
+    12
+
+[masked, masker] = addnoise(clean,masker,12);
+{Undefined function or variable 'addnoise'.
+} 
+[masked, masker] = addnoise(clean,masker,12);
+{Undefined function or variable 'addnoise'.
+} 
+Audio3
+{Undefined variable "dsp" or function "dsp.AsyncBuffer".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 508)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',508,0)">line 508</a>)
+buffer = dsp.AsyncBuffer;
+} 
+Audio3
+{Undefined variable "dsp" or function "dsp.AsyncBuffer".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 508)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',508,0)">line 508</a>)
+buffer = dsp.AsyncBuffer;
+} 
+Audio3
+{Undefined variable "dsp" or function "dsp.AsyncBuffer".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 508)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',508,0)">line 508</a>)
+buffer = dsp.AsyncBuffer;
+} 
+Audio3
+{Undefined variable "dsp" or function "dsp.AsyncBuffer".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 508)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',508,0)">line 508</a>)
+buffer = dsp.AsyncBuffer;
+} 
+Audio3
+{Undefined variable "dsp" or function "dsp.AsyncBuffer".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 508)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',508,0)">line 508</a>)
+buffer = dsp.AsyncBuffer;
+} 
+Audio3
+{Undefined function or variable 'voiceActivityDetector'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 511)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',511,0)">line 511</a>)
+VAD = voiceActivityDetector('InputDomain','Frequency');
+} 
+Audio3
+{Undefined variable "dsp" or function "dsp.AsyncBuffer".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 508)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',508,0)">line 508</a>)
+ buffer = dsp.AsyncBuffer;
+} 
+Audio3
+{Undefined variable "dsp" or function "dsp.AsyncBuffer".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 508)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',508,0)">line 508</a>)
+ buffer = dsp.AsyncBuffer;
+} 
+Audio3
+{Undefined variable "dsp" or function "dsp.AsyncBuffer".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 508)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',508,0)">line 508</a>)
+ buffer = dsp.AsyncBuffer;
+} 
+Audio3
+{Undefined variable "dsp" or function "dsp.AsyncBuffer".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 508)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',508,0)">line 508</a>)
+ buffer = dsp.AsyncBuffer;
+} 
+Audio3
+{Undefined variable "dsp" or function "dsp.AsyncBuffer".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 508)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',508,0)">line 508</a>)
+ buffer = dsp.AsyncBuffer;
+} 
+matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 508)
+Audio3
+{Undefined function or variable 'mirsegment'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 506)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',506,0)">line 506</a>)
+sg = mirsegment(input, 'RMS');
+} 
+Audio3
+{Undefined function or variable 'mirsegment'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 506)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',506,0)">line 506</a>)
+sg = mirsegment(input, 'RMS');
+} 
+Audio3
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('xlsread', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\iofun\xlsread.m', 128)" style="font-weight:bold">xlsread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\iofun\xlsread.m',128,0)">line 128</a>)
+XLSREAD unable to open file 'mydatafile.xlsx'.
+File 'C:\Sonali Matlab\Matlab\Audio\mydatafile.xlsx' not found.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 507)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',507,0)">line 507</a>)
+   segments = xlsread('mydatafile.xlsx','C15:D24');
+} 
+Audio3
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('xlsread', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\iofun\xlsread.m', 128)" style="font-weight:bold">xlsread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\iofun\xlsread.m',128,0)">line 128</a>)
+XLSREAD unable to open file 'A2.xlsx'.
+File 'C:\Sonali Matlab\Matlab\Audio\A2.xlsx' not found.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 507)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',507,0)">line 507</a>)
+   segments = xlsread('A2.xlsx','C15:D24');
+} 
+AudioMainC2
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('audioread', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\audioread.m', 88)" style="font-weight:bold">audioread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\audioread.m',88,0)">line 88</a>)
+The file type is not supported
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('AudioMainC2', 'C:\Sonali Matlab\Matlab\Audio\AudioMainC2.m', 11)" style="font-weight:bold">AudioMainC2</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\AudioMainC2.m',11,0)">line 11</a>)
+[w,Fs]=audioread(fname);
+} 
+AudioMainC2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Max value = 0.79999
+Min value = -0.80002
+Mean value = 0.002476
+RMS value = 0.19621
+Dynamic range D = 42.3067 dB
+Crest factor Q = 12.2071 dB
+Autocorrelation time = 0.31396 s
+Audio3
+
+A =
+
+  -0.0086 + 0.0273i  -0.0012 + 0.0245i
+
+Audio3
+
+A =
+
+  -0.0086 + 0.0273i  -0.0012 + 0.0245i
+
+Audio3
+
+A =
+
+  -0.0086 + 0.0273i  -0.0012 + 0.0245i
+
+Audio3
+Audio3
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'AudioMainC2.mat'. No such file or directory.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+load AudioMainC2.mat
+} 
+Audio3
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'AudioMainC2.mat'. No such file or directory.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+load AudioMainC2.mat
+} 
+Audio3
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'AudioMainC2.mat'. No such file or directory.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+load AudioMainC2.mat
+} 
+Audio3
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'AudioMainC2.mat'. No such file or directory.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+load AudioMainC2.mat
+} 
+Audio3
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'AudioMainC2.mat'. No such file or directory.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+load AudioMainC2.mat
+} 
+Audio3
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file 'AudioMainC2.mat'. No such file or directory.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+load AudioMainC2.mat
+} 
+AudioMainC2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 5831422
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 5831422
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 5831422
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Max value = 0.79999
+Min value = -0.80002
+Mean value = 0.002476
+RMS value = 0.19621
+Dynamic range D = 42.3067 dB
+Crest factor Q = 12.2071 dB
+Autocorrelation time = 0.31396 s
+Audio3
+{Undefined function or variable 'audioTraining'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 534)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',534,0)">line 534</a>)
+audioTraining       = audioTraining(1:numel(noise));
+} 
+Audio3
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plus')" style="font-weight:bold"> + </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 537)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',537,0)">line 537</a>)
+audioTrainingNoisy  = audioTraining + noise;
+} 
+Audio3
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plus')" style="font-weight:bold"> + </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 537)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',537,0)">line 537</a>)
+audioTrainingNoisy  = audioTraining + noise;
+} 
+Audio3
+{Undefined function or variable 'melSpectrogram'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+[s,cf] = melSpectrogram(audioIn,fs);
+} 
+Audio3
+{Undefined function or variable 'spectralCentroid'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+centroid = spectralCentroid(audioIn,fs);
+} 
+clc
+Audio3
+{Undefined function or variable 'spectralCentroid'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+centroid = spectralCentroid(audioIn,fs);
+} 
+clear
+clc
+Audio3
+{Undefined function or variable 'spectralCentroid'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+centroid = spectralCentroid(audioIn,fs);
+} 
+endpoint1
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('endpoint1', 'C:\Sonali Matlab\Matlab\Audio\endpoint1.m', 293)" style="font-weight:bold">endpoint1</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\endpoint1.m',293,0)">line 293</a>)
+Not enough input arguments.
+} 
+endpoint1
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('endpoint1', 'C:\Sonali Matlab\Matlab\Audio\endpoint1.m', 293)" style="font-weight:bold">endpoint1</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\endpoint1.m',293,0)">line 293</a>)
+Not enough input arguments.
+} 
+AudioMainC2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 2601617
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 2601617
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 2601617
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Max value = 0.79999
+Min value = -0.80002
+Mean value = 0.002476
+RMS value = 0.19621
+Dynamic range D = 42.3067 dB
+Crest factor Q = 12.2071 dB
+Autocorrelation time = 0.31396 s
+endpoint1
+{Error: <a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\endpoint1.m',247,1)">File: endpoint1.m Line: 247 Column: 1
+</a>Function definitions are not permitted in this context.
+} 
+endpoint1
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('endpoint1', 'C:\Sonali Matlab\Matlab\Audio\endpoint1.m', 293)" style="font-weight:bold">endpoint1</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\endpoint1.m',293,0)">line 293</a>)
+Not enough input arguments.
+} 
+AudioMainC2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Max value = 0.79999
+Min value = -0.80002
+Mean value = 0.002476
+RMS value = 0.19621
+Dynamic range D = 42.3067 dB
+Crest factor Q = 12.2071 dB
+Autocorrelation time = 0.31396 s
+Audio3
+{Undefined function or variable 'harmonicRatio'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 533)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',533,0)">line 533</a>)
+hr = harmonicRatio(audioInMono,fs);
+} 
+Audio3
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('audioread', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\audioread.m', 74)" style="font-weight:bold">audioread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\audioread.m',74,0)">line 74</a>)
+The filename specified was not found in the MATLAB path.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 530)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',530,0)">line 530</a>)
+[audioIn,fs] = audioread('Counting-16-44p1-mono-15secs.wav');
+} 
+Audio3
+{Undefined function or variable 'spectralSlope'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+slope = spectralSlope(audioIn,fs);
+} 
+Audio3
+{Undefined function or variable 'spectralCentroid'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 541)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',541,0)">line 541</a>)
+centroid = spectralCentroid(audio,fs);
+} 
+Audio3
+{Subscript indices must either be real positive integers or logicals.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 541)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',541,0)">line 541</a>)
+centroid = spectralCentroid(audio,fs);
+} 
+Audio3
+{Subscript indices must either be real positive integers or logicals.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 541)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',541,0)">line 541</a>)
+centroid = spectralCentroid(audio,fs);
+} 
+Audio3
+{Undefined function or variable 'spectralSlope'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+slope = spectralSlope(audioIn,fs);
+} 
+Audio3
+{Undefined function or variable 'spectralSlope'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+slope = spectralSlope(audioIn,fs);
+} 
+Audio3
+{Undefined function or variable 'spectralEntropy'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 532)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',532,0)">line 532</a>)
+entropy = spectralEntropy(audioIn,fs);
+} 
+Audio3
+{Undefined function or variable 'spectralEntropy'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 532)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',532,0)">line 532</a>)
+entropy = spectralEntropy(audioIn,fs);
+} 
+Audio3
+{Undefined function or variable 'spectralEntropy'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 532)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',532,0)">line 532</a>)
+entropy = spectralEntropy(audioIn,fs);
+} 
+Audio3
+{Undefined function or variable 'spectralEntropy'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 532)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',532,0)">line 532</a>)
+entropy = spectralEntropy(audioIn,fs);
+} 
+Audio3
+{Undefined function or variable 'spectralEntropy'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 532)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',532,0)">line 532</a>)
+entropy = spectralEntropy(audioIn,fs);
+} 
+Audio3
+{Undefined function or variable 'spectralEntropy'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 532)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',532,0)">line 532</a>)
+entropy = spectralEntropy(audioIn,fs);
+} 
+Audio3
+{Undefined function or variable 'spectralEntropy'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 532)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',532,0)">line 532</a>)
+entropy = spectralEntropy(audioIn,fs);
+} 
+Audio3
+{Undefined function or variable 'spectralFlux'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+flux = spectralFlux(audioIn,fs);
+} 
+Audio3
+{Undefined function or variable 'spectralFlux'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+flux = spectralFlux(audioIn,fs);
+} 
+Audio3
+{Undefined function or variable 'spectralFlux'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+flux = spectralFlux(audioIn,fs);
+} 
+Audio3
+{Undefined function or variable 'spectralFlux'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+flux = spectralFlux(audioIn,fs);
+} 
+clear
+clc
+Audio3
+{Undefined function or variable 'spectralFlux'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+flux = spectralFlux(audioIn,fs);
+} 
+Audio3
+{Undefined variable "dsp" or function "dsp.AsyncBuffer".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+buff = dsp.AsyncBuffer;
+} 
+Audio3
+{Undefined variable "dsp" or function "dsp.AsyncBuffer".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+buff = dsp.AsyncBuffer;
+} 
+Audio3
+{Undefined variable "dsp" or function "dsp.AsyncBuffer".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+buff = dsp.AsyncBuffer;
+} 
+Audio3
+{Array formation and parentheses-style indexing with objects of class 'dsp.AudioFileReader' is not allowed.  Use objects
+of class 'dsp.AudioFileReader' only as scalars or use a cell array.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 544)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',544,0)">line 544</a>)
+    audioIn = fileReader();
+} 
+Audio3
+{Undefined variable "dsp" or function "dsp.AsyncBuffer".
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Audio3', 'C:\Sonali Matlab\Matlab\Audio\Audio3.m', 531)" style="font-weight:bold">Audio3</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\Audio3.m',531,0)">line 531</a>)
+buff = dsp.AsyncBuffer;
+} 
+clear
+clc
+AudioMainC2
+[Warning: Input should be a string.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('strcat', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\strfun\strcat.p', 83)" style="font-weight:bold">strcat</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\strfun\strcat.p',83,0)">line 83</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('AudioMainC2', 'C:\Sonali Matlab\Matlab\Audio\AudioMainC2.m', 10)" style="font-weight:bold">AudioMainC2</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\AudioMainC2.m',10,0)">line 10</a>)] 
+[Warning: Input should be a string.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('strcat', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\strfun\strcat.p', 91)" style="font-weight:bold">strcat</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\strfun\strcat.p',91,0)">line 91</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('AudioMainC2', 'C:\Sonali Matlab\Matlab\Audio\AudioMainC2.m', 10)" style="font-weight:bold">AudioMainC2</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\AudioMainC2.m',10,0)">line 10</a>)] 
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('audioread', 'C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\audioread.m', 74)" style="font-weight:bold">audioread</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\MATLAB Production Server\R2015a\toolbox\matlab\audiovideo\audioread.m',74,0)">line 74</a>)
+The filename specified was not found in the MATLAB path.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('AudioMainC2', 'C:\Sonali Matlab\Matlab\Audio\AudioMainC2.m', 11)" style="font-weight:bold">AudioMainC2</a> (<a href="matlab: opentoline('C:\Sonali Matlab\Matlab\Audio\AudioMainC2.m',11,0)">line 11</a>)
+[w,Fs]=audioread(fname);
+} 
+AudioMainC2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 32000
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 873216
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 32000
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 873216
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 32000
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 873216
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Max value = 0.79999
+Min value = -0.80002
+Mean value = 0.002476
+RMS value = 0.19621
+Dynamic range D = 42.3067 dB
+Crest factor Q = 12.2071 dB
+Autocorrelation time = 0.31396 s
+AudioMainC2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 5831422
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 5831422
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 5831422
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Max value = 0.79999
+Min value = -0.80002
+Mean value = 0.002476
+RMS value = 0.19621
+Dynamic range D = 42.3067 dB
+Crest factor Q = 12.2071 dB
+Autocorrelation time = 0.31396 s
+AudioMainC2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 5831422
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 5831422
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 5831422
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Max value = 0.84713
+Min value = -0.94168
+Mean value = -6.3242e-06
+RMS value = 0.1439
+Dynamic range D = 88.8678 dB
+Crest factor Q = 15.3978 dB
+Autocorrelation time = 113.8723 s
+AudioMainC2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Max value = 0.84713
+Min value = -0.94168
+Mean value = -6.3242e-06
+RMS value = 0.1439
+Dynamic range D = 88.8678 dB
+Crest factor Q = 15.3978 dB
+Autocorrelation time = 113.8723 s
+AudioMainC2
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+key =
+
+       32000
+
+Signal Normalization
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+
+player = 
+
+  <a href="matlab:helpPopup audioplayer" style="font-weight:bold">audioplayer</a> with properties:
+
+          SampleRate: 44100
+       BitsPerSample: 16
+    NumberOfChannels: 2
+            DeviceID: -1
+       CurrentSample: 1
+        TotalSamples: 1306624
+             Running: 'off'
+            StartFcn: []
+             StopFcn: []
+            TimerFcn: []
+         TimerPeriod: 0.0500
+                 Tag: ''
+            UserData: []
+                Type: 'audioplayer'
+
+Max value = 0.84713
+Min value = -0.94168
+Mean value = -6.3242e-06
+RMS value = 0.1439
+Dynamic range D = 88.8678 dB
+Crest factor Q = 15.3978 dB
+Autocorrelation time = 113.8723 s
